@@ -1,0 +1,11 @@
+@import 'variables';
+body {
+  margin: 0;
+}
+#app {
+  max-width: 1200px;
+  margin: auto;
+}
+h1 {
+  color: $red-primary;
+}
