@@ -1,7 +1,7 @@
 class SiteController {
 
   home(req, res) {
-    res.render('new');
+    res.render('home');
   }
 
   search(req, res) {
